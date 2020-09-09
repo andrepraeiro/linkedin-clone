@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Container = styled.div`
+export const Container = styled.span`
   width: 100%;
   font-size: 15px;
   font-weight: 600;
